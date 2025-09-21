@@ -37,7 +37,7 @@ It visualizes statistics such as total races, teams, drivers, average laps per r
 
 ## ⚙️ Tech Stack
 
-- **Power BI / Tableau / Dash (Python)** – (depending on the tool you used, mention it here)
+- **Power BI (Python)** 
 - **Data Source**: Formula 1 historical race data (2010–2025)
 - **Visualization Components**:
   - Cards (KPIs)
